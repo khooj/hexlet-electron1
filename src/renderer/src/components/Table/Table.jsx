@@ -1,6 +1,5 @@
-import { useState, useRef } from 'react'
+import { useState } from 'react'
 import AddUserForm from '../AddUserForm/AddUserForm.jsx'
-import './Table.css'
 import Table from '@mui/material/Table'
 import TableBody from '@mui/material/TableBody'
 import TableCell from '@mui/material/TableCell'
